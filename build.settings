@@ -10,6 +10,7 @@ settings =
 	{
 		plist =
 		{
+			NSFaceIDUsageDescription = "Need it for the plugin",
 			-- UIApplicationExitsOnSuspend = true, -- default is false
 			CFBundleIconFile = "Icon.png",
 			CFBundleIconFiles =
